@@ -1,0 +1,23 @@
+{
+  "name": "genpark-personal-agent-cardiac-baroreflex-sensitivity-sequence-skill",
+  "version": "1.0.0",
+  "description": "Zero-dependency sovereign personal agent skill for calculating spontaneous Cardiac Baroreflex Sensitivity (BRS in ms/mmHg) via beat-to-beat sequence analysis, cardiovagal tone, and autonomic resilience.",
+  "author": "AlphaPark Inc.",
+  "license": "Apache-2.0",
+  "entrypoint": "client.py",
+  "mcp_server": "mcp_server.py",
+  "tags": [
+    "personal-agent",
+    "ai-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "python",
+    "zero-dependency",
+    "wellness",
+    "productivity",
+    "production-ready"
+  ]
+}
